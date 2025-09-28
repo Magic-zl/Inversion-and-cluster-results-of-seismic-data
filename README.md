@@ -1,0 +1,1 @@
+The data presented here correspond to Figures 4 and 6 in the manuscript, showing the S-wave (Vs) and P-wave (Vp) inversion results for Survey Line 1 and Survey Line 2, as well as the results of clustering analyses performed on both the S-wave and P-wave data.
